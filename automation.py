@@ -23,4 +23,4 @@ output_message = chrome_browser.find_element_by_id('display')
 assert 'I AM EXTRA COOL' in output_message.text
 
 # chrome_browser.close()
-chrome_browser.quit()
+#chrome_browser.quit()
